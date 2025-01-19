@@ -8,7 +8,7 @@ pirating it would be a serious dick move. Don't screw over indie developers.
 
 Currently, up to version 1.5.1 is supported. Newer versions of the game may or may not work.
 
-##DIRECTIONS:
+## DIRECTIONS:
 0. Purchase UFO 50. The devs deserve the money.
 1. Copy your UFO 50 game files into the ufo50 folder.
 2. Run build.bat.
@@ -17,10 +17,10 @@ Currently, up to version 1.5.1 is supported. Newer versions of the game may or m
 5. Install com.unofficial.ufo50.apk with your file manager of choice. You can delete it after it's installed.
 6. Play! You can press Start, go to Settings > Video Settings, and set SCALE to FILL to fill the entire screen.
 
-##NOTES:
+## NOTES:
 If you have UFO 50 working on PortMaster, open ufo50.port in an archive manager like 7-zip and use the game.droid and options.ini files in that directory.
 If you don't have any idea what the above means, don't worry about it. It's entirely optional.
 
-##TODO:
+## TODO:
 - Integrate PortMaster's changes into build script as an optional selection
 - Implement touch controls (may never happen, need to research injecting objects using UndertaleModTool
